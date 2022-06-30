@@ -15,12 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 
 # Site configurations
-url: "https://template.itwcreativeworks.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://promo-server.itwcreativeworks.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Custom Configuration
 version: '1.0.0'
-app: 'itw-creative-works'
+app: 'promo-server'
 meta:
   title: "Default title"
   description: "Default description"
@@ -122,14 +122,14 @@ settings:
         firebase_app: {
           enabled: true,
           config: {
-            apiKey: 'AIzaSyDzy5BG9-i9RmymyFx6mfwSgaRioyfa0Cc',
-            authDomain: 'ultimate-jekyll.firebaseapp.com',
-            databaseURL: 'https://ultimate-jekyll.firebaseio.com',
-            projectId: 'ultimate-jekyll',
-            storageBucket: 'ultimate-jekyll.appspot.com',
-            messagingSenderId: '837186164890',
-            appId: '1:837186164890:web:f1f59569d661078c',
-            measurementId: ''
+            apiKey: 'AIzaSyDvfqdx_G8zxBDGIW9miaQ5ChGoK1JuzCU',
+            authDomain: 'promo-server-api.firebaseapp.com',
+            databaseURL: 'https://promo-server-api-default-rtdb.firebaseio.com',
+            projectId: 'promo-server-api',
+            storageBucket: 'promo-server-api.appspot.com',
+            messagingSenderId: '615921253175',
+            appId: '1:615921253175:web:3172b4e5c6fc090a0138b2',
+            measurementId: 'G-PV5EE7RD76'
           }
         },
         cookieconsent: {
