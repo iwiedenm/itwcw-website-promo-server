@@ -22,8 +22,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 version: '1.0.0'
 app: 'promo-server'
 meta:
-  title: "Default title"
-  description: "Default description"
+  title: "Promo Server"
+  description: "Promo Server"
   og-image: "https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/socials/itw-creative-works-brandmark-black-1024x1024.png"
   keywords: "" # false or blank to disable, comma separated kws
   viewport: "" # string, leave blank to use default
@@ -62,11 +62,11 @@ email-marketing: # Get this information from Mailchimp > Audience > Manage Audie
   mailchimp-list-id: "" # string, example: b3456e5ffd
 
 contact:
-  email-support: "support@example.com" #string, example: support@example.com
-  email-business: "hello@example.com" #string, example: hello@example.com
+  email-support: "support@itwcreativeworks.com" #string, example: support@example.com
+  email-business: "hello@itwcreativeworks.com" #string, example: hello@example.com
 
 brand:
-  name: "Ultimate Jekyll" # example: Google
+  name: "Promo Server" # example: Google
   type: "Corporation" # example: Corporation
   description: "Default description." # example: A search engine company.
   logo-image: "https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/socials/itw-creative-works-brandmark-black-1024x1024.png" # URL | LOCAL path, example: https://defaultogimage.com, /assets/img/og/og.png
