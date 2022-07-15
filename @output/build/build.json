@@ -1,0 +1,30 @@
+{
+  "environment": "production",
+  "repo": {
+    "user": "iwiedenm",
+    "name": "itwcw-website-promo-server"
+  },
+  "npm-build": {
+    "timestamp_utc": "2022-07-15T03:47:04Z",
+    "timestamp_pst": "2022-07-14T20:47:04Z"
+  },
+  "gh-pages-push": {
+    "timestamp_utc": "2022-07-15T03:47:04Z",
+    "timestamp_pst": "2022-07-14T20:47:04Z"
+  },
+  "packages": {
+    "web-manager": "3.1.1"
+  },
+  "brand": {
+    "name": "Promo Server",
+    "type": "Corporation",
+    "description": "Default description.",
+    "logo-image": "https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/socials/itw-creative-works-brandmark-black-1024x1024.png",
+    "logo-image-svg": "https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/logo/itw-creative-works-brandmark-black-x.svg",
+    "address-locality": "Los Angeles",
+    "address-country": "United States"
+  },
+  "admin-dashboard": {
+    "pages": []
+  }
+}
